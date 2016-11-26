@@ -2,3 +2,4 @@ Future injector changelog:\n
 + Added a noob icon\n
 - Removed MaximizeBox\n
 - Removed "set" button in the color tab (now it automatically sets the color when you choose which one)\n
++ Added light green color
