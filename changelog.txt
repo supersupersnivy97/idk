@@ -1,3 +1,4 @@
 Not updated\n
 Please wait\n\n\n
-Did you know I can change this like a server message?
+Did you know I can change this like a server message?\n
+Btw, making minor changes to the injector soon
