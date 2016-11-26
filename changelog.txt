@@ -1,3 +1,6 @@
+Injector changelog (November 26):\n
++ Added update tab with a Noobxploit update checker and a Noobxploit DLL downloader\n\n
+
 Noobxploit changelog (November 26):\n
 + Updated (THANKS TO DION!!!)\n\n
 
