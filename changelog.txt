@@ -1,4 +1,4 @@
-Not updated\n
-Please wait\n\n\n
-Did you know I can change this like a server message?\n
-Btw, making minor changes to the injector soon
+Future injector changelog:\n
++ Added a noob icon\n
+- Removed MaximizeBox\n
+- Removed "set" button in the color tab (now it automatically sets the color when you choose which one)\n
