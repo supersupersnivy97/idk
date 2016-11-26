@@ -2,4 +2,5 @@ Injector changelog (November 26):\n
 + Added a noob icon\n
 - Removed MaximizeBox\n
 - Removed "set" button in the color tab (now it automatically sets the color when you choose which one)\n
-+ Color changes
++ Color changes\n
++ Added dark theme
