@@ -1,3 +1,6 @@
+Noobxploit changelog (November 26):\n
++ Updated (THANKS TO DION!!!)\n\n
+
 Injector changelog (November 26):\n
 + Added a noob icon\n
 - Removed MaximizeBox\n
