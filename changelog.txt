@@ -1,3 +1,7 @@
+Injector changelog (November 27):\n
+- Removed the auto DLL downloader\n
++ Now the DLL url will be started on your browser\n\n
+
 Injector changelog (November 26):\n
 + Added update tab with a Noobxploit update checker and a Noobxploit DLL downloader\n
 + Added pink color\n\n
