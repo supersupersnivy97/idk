@@ -1,3 +1,6 @@
+Noobxploit changelog (November 27):\n
++ An internal update (nothing you care about)\n\n
+
 Injector changelog (November 27):\n
 - Removed the auto DLL downloader\n
 + Now the DLL url will be started on your browser\n\n
