@@ -31,7 +31,7 @@ pcall [nargs] [nresults] - Use only if you know what it is
 emptystack - Use only if you know what it is
 gettop - Use only if you know what it is
 invisible [p] - Makes [p] invisible
-visible [p] - Makes [p] visible
+visible [p] or unghost [p] - Makes [p] visible
 gravity [n] - Sets the gravity to [n] (default is 196.2)
 print [string] - Prints [string] in the dev console
 tp [p1] [p2] - Teleports [p1] to [p2]
@@ -63,3 +63,6 @@ fogstart [n] - Sets FogStart to [n]
 bighead [p] - Makes [p]'s Head big
 normalhead [p] - Makes [p]'s Head normal
 fling [p] - Flings [p]
+shiny [p] - Makes [p] shiny
+unshiny [p] - Makes [p] not shiny
+ghost [p] - Makes [p] a ghost
