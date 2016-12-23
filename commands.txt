@@ -66,3 +66,5 @@ fling [p] - Flings [p]
 shiny [p] - Makes [p] shiny
 unshiny [p] - Makes [p] not shiny
 ghost [p] - Makes [p] a ghost
+printidentity - Prints current identity (if you think this is fake, do getglobal printidentity and pcall 0 0)
+repeat [n] [command] - Executes [n] times the command [command]
