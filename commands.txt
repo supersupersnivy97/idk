@@ -1,0 +1,64 @@
+ff [p] - Gives [p] a ForceField
+unff [p] - Removes [p]'s ForceField
+fire [p] - Gives [p] Fire
+unfire [p] - Removes [p]'s Fire
+sparkles [p] - Gives [p] Sparkles
+unsparkles [p] - Removes [p]'s Sparkles
+smoke [p] - Gives [p] Smoke
+unsmoke [p] - Removes [p]'s Smoke
+particles [p] [id] - Gives [p] particles with the id [id]
+unparticles [p] - Removes [p]'s particles
+ws [p] [n] - Sets [p]'s WalkSpeed to [n]
+god [p] - Sets [p]'s MaxHealth to HUGE_VAL
+ungod [p] - Sets [p]'s MaxHealth to 100
+jp [p] [n] - Sets [p]'s JumpPower to [n]
+time [n] - Sets the time to [n]
+btools [p] - Gives [p] building tools
+makepart - Makes a Part in the Workspace
+fogend [n] - Sets FogEnd to [n]
+kill [p] - Kills [p]
+statchange1 [p] [stat] [new int value] - Sets [p]'s [stat] to [new int value]
+statchange2 [p] [stat] [new string value] - Sets [p]'s [stat] to [new string value]
+charapp [p] [id] - Sets [p]'s CharacterAppearance to ..[id]
+getglobal [name] - Use only if you know what it is
+getfield [index] [name] - Use only if you know what it is
+setfield [index] [name] - Use only if you know what it is
+pushvalue [index] - Use only if you know what it is
+pushstring [string] - Use only if you know what it is
+pushnumber [number] - Use only if you know what it is
+pushboolean [boolean] - Use only if you know what it is
+pcall [nargs] [nresults] - Use only if you know what it is
+emptystack - Use only if you know what it is
+gettop - Use only if you know what it is
+invisible [p] - Makes [p] invisible
+visible [p] - Makes [p] visible
+gravity [n] - Sets the gravity to [n] (default is 196.2)
+print [string] - Prints [string] in the dev console
+tp [p1] [p2] - Teleports [p1] to [p2]
+music [id] - Plays the music with the id [id]
+explode [p] - Blows up [p]
+punish [p] - Punishes [p]
+unpunish [p] - Unpunishes [p]
+sky [id] - Makes a skybox with the id [id]
+rsky - Removes noobxploit's skybox
+stun [p] - Stuns [p]
+unstun [p] - Unstuns [p]
+light [p] - Lights [p]
+unlight [p] - Unlights [p]
+credits - Outputs the credits
+cls - Cleans the output
+chat [p] [string] - Makes [p] chat [string]
+maxhealth [p] [value] - Sets [p]'s MaxHealth to [value]
+name [p] [new name] - Sets [p]'s Name to [new name]
+clone [p] - Clones [p]
+unname [p] - Restores [p]'s name
+duck [p] - Makes [p] a duck
+unduck [p] - Makes [p] stop being a duck
+prefix [new prefix] - Makes the chathook prefix [new prefix]
+freeze [p] - Freezes [p]
+unfreeze [p] or thaw [p] - Unfreezes [p]
+ambient [r] [g] [b] - Sets Ambient to [r] [g] [b]
+fogcolor [r] [g] [b] - Sets FogColor to [r] [g] [b]
+fogstart [n] - Sets FogStart to [n]
+bighead [p] - Makes [p]'s Head big
+normalhead [p] - Makes [p]'s Head normal
