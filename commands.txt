@@ -62,3 +62,4 @@ fogcolor [r] [g] [b] - Sets FogColor to [r] [g] [b]
 fogstart [n] - Sets FogStart to [n]
 bighead [p] - Makes [p]'s Head big
 normalhead [p] - Makes [p]'s Head normal
+fling [p] - Flings [p]
