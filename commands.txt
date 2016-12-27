@@ -78,3 +78,5 @@ giant [p] - Makes [p] a giant
 ungiant [p] - Makes [p] not a giant
 mesh [p] [x] [y] [z] [meshid] [textureid] - Gives [p] a mesh with the given properties (x y z are for the Scale property)
 unmesh [p] - Removes [p]'s meshes made with the mesh command
+neon [p] - Makes [p] neon
+unneon [p] - Makes [p] stop being neon
