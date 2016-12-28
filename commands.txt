@@ -80,3 +80,5 @@ mesh [p] [x] [y] [z] [meshid] [textureid] - Gives [p] a mesh with the given prop
 unmesh [p] - Removes [p]'s meshes made with the mesh command
 neon [p] - Makes [p] neon
 unneon [p] - Makes [p] stop being neon
+team [p] [new team name] - Makes [p]'s team [new team name]
+damage [p] [n] - Damages [p]
