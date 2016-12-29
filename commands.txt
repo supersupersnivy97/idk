@@ -55,8 +55,8 @@ unname [p] - Restores [p]'s name
 duck [p] - Makes [p] a duck
 unduck [p] - Makes [p] stop being a duck
 prefix [new prefix] - Makes the chathook prefix [new prefix]
-freeze [p] - Freezes [p]
-unfreeze [p] or thaw [p] - Unfreezes [p]
+freeze [p] or frz [p] - Freezes [p]
+unfreeze [p] or unfrz [p] or thaw [p] - Unfreezes [p]
 ambient [r] [g] [b] - Sets Ambient to [r] [g] [b]
 fogcolor [r] [g] [b] - Sets FogColor to [r] [g] [b]
 fogstart [n] - Sets FogStart to [n]
@@ -82,3 +82,5 @@ neon [p] - Makes [p] neon
 unneon [p] - Makes [p] stop being neon
 team [p] [new team name] - Makes [p]'s team [new team name]
 damage [p] [n] - Damages [p]
+bring [p] - Brings [p]
+goto [p] or to [p] - Teleports LocalPlayer to [p]
