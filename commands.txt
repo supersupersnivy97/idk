@@ -90,3 +90,4 @@ noob [p] - Makes [p] a noob
 unnoob [p] - Makes [p] stop being a noob
 lock [p] - Locks [p]
 unlock [p] - Unlocks [p]
+fencingreach - Fencing only
