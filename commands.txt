@@ -91,3 +91,4 @@ unnoob [p] - Makes [p] stop being a noob
 lock [p] - Locks [p]
 unlock [p] - Unlocks [p]
 fencingreach - Fencing only
+brightness [n] - Sets Brightness to [n]
