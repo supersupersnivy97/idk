@@ -84,3 +84,5 @@ team [p] [new team name] - Makes [p]'s team [new team name]
 damage [p] [n] - Damages [p]
 bring [p] - Brings [p]
 goto [p] or to [p] - Teleports LocalPlayer to [p]
+clicktodelete - Enables deleting BaseParts by left clicking
+unclicktodelete - Disables deleting BaseParts by left clicking
