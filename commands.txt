@@ -94,3 +94,4 @@ fencingreach - Fencing only
 brightness [n] - Sets Brightness to [n]
 stealtools [p] - Steals [p]'s tools
 swordreach - Works on games with a Sword which has Sword in the tool name
+heal [p] - Heals [p]
