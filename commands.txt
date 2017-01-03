@@ -95,3 +95,4 @@ brightness [n] - Sets Brightness to [n]
 stealtools [p] - Steals [p]'s tools
 swordreach - Works on games with a Sword which has Sword in the tool name
 heal [p] - Heals [p]
+clrworkspace - Clears Workspace children if they aren't a Player's Character or Terrain or Camera
