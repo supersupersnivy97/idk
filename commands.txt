@@ -40,7 +40,7 @@ explode [p] - Blows up [p]
 punish [p] - Punishes [p]
 unpunish [p] - Unpunishes [p]
 sky [id] - Makes a skybox with the id [id]
-rsky - Removes noobxploit's skybox
+rsky - Removes noobhax's skybox
 stun [p] - Stuns [p]
 unstun [p] - Unstuns [p]
 light [p] - Lights [p]
@@ -96,3 +96,9 @@ stealtools [p] - Steals [p]'s tools
 swordreach - Works on games with a Sword which has Sword in the tool name
 heal [p] - Heals [p]
 clrworkspace - Clears Workspace children if they aren't a Player's Character or Terrain or Camera
+ssjgod [p] - Makes [p] a Super Saiyan God
+respawn [p] - Respawns [p]
+mouselock [p] [bool] - Sets [p]'s MouseLock to [bool]
+firstperson [p] - Sets [p]'s Camera to first person
+thirdperson [p] - Sets [p]'s Camera to third person
+age [p] - Outputs [p]'s AccountAge
