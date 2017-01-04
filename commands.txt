@@ -102,3 +102,4 @@ mouselock [p] [bool] - Sets [p]'s MouseLock to [bool]
 firstperson [p] - Sets [p]'s Camera to first person
 thirdperson [p] - Sets [p]'s Camera to third person
 age [p] - Outputs [p]'s AccountAge
+rmusic - Removes every Sound in the Workspace
