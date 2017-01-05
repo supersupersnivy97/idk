@@ -103,3 +103,10 @@ firstperson [p] - Sets [p]'s Camera to first person
 thirdperson [p] - Sets [p]'s Camera to third person
 age [p] - Outputs [p]'s AccountAge
 rmusic - Removes every Sound in the Workspace
+noclip - Makes LocalPlayer noclip
+swim - Makes LocalPlayer swim
+airwalk - Makes LocalPlayer airwalk
+jesusfly or fly - Makes LocalPlayer fly
+airwalk - Makes LocalPlayer airwalk
+superjump - Makes LocalPlayer superjump
+disable or clip or unswim or unjesusfly or unfly or unairwalk or unsuperjump - Disables HumanoidState hax
