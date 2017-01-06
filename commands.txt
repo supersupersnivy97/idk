@@ -110,3 +110,4 @@ jesusfly or fly - Makes LocalPlayer fly
 airwalk - Makes LocalPlayer airwalk
 superjump - Makes LocalPlayer superjump
 disable or clip or unswim or unjesusfly or unfly or unairwalk or unsuperjump - Disables HumanoidState hax
+fegod - Enables FilteringEnabled god mode (to disable use the respawn command)
