@@ -111,3 +111,4 @@ tptopos [p] [x] [y] [z] - Teleports [p] to the Position [x] [y] [z]
 rightclicktotp - Enables teleporting by right clicking
 unrightclicktotp - Disables teleporting by right clicking
 removetools [p] - Removes [p]'s tools
+printpos [p] - Prints [p]'s Position
