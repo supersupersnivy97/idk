@@ -110,3 +110,4 @@ unprintmousepos - Disables printing Mouse's Hit.p by left clicking
 tptopos [p] [x] [y] [z] - Teleports [p] to the Position [x] [y] [z]
 rightclicktotp - Enables teleporting by right clicking
 unrightclicktotp - Disables teleporting by right clicking
+removetools [p] - Removes [p]'s tools
