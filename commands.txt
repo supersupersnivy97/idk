@@ -105,3 +105,8 @@ age [p] - Outputs [p]'s AccountAge
 rmusic - Removes every Sound in the Workspace
 fegod - Enables FilteringEnabled god mode (to disable use the respawn command)
 drophats - Drops LocalPlayer's hats
+printmousepos - Enables printing Mouse's Hit.p by left clicking
+unprintmousepos - Disables printing Mouse's Hit.p by left clicking
+tptopos [p] [x] [y] [z] - Teleports [p] to the Position [x] [y] [z]
+rightclicktotp - Enables teleporting by right clicking
+unrightclicktotp - Disables teleporting by right clicking
