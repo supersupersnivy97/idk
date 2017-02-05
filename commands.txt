@@ -112,3 +112,8 @@ rightclicktotp - Enables teleporting by right clicking
 unrightclicktotp - Disables teleporting by right clicking
 removetools [p] - Removes [p]'s tools
 printpos [p] - Prints [p]'s Position
+blur - Makes a BlurEffect in the Lighting
+unblur - Removes Blur from the Lighting
+fixl or fixlighting or fix - Removes Lighting children
+box [p] - Gives [p] a SelectionBox
+unbox [p] - Removes [p]'s SelectionBox
