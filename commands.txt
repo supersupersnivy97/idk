@@ -117,3 +117,4 @@ unblur - Removes Blur from the Lighting
 fixl or fixlighting or fix - Removes Lighting children
 box [p] - Gives [p] a SelectionBox
 unbox [p] - Removes [p]'s SelectionBox
+crash [p] - Crashes [p]
