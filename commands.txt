@@ -84,8 +84,8 @@ team [p] [new team name] - Makes [p]'s team [new team name]
 damage [p] [n] - Damages [p]
 bring [p] - Brings [p]
 goto [p] or to [p] - Teleports LocalPlayer to [p]
-clicktodelete - Enables deleting BaseParts by left clicking
-unclicktodelete - Disables deleting BaseParts by left clicking
+clicktodelete or cdel - Enables deleting BaseParts by left clicking
+unclicktodelete or uncdel - Disables deleting BaseParts by left clicking
 noob [p] - Makes [p] a noob
 unnoob [p] - Makes [p] stop being a noob
 lock [p] - Locks [p]
@@ -108,8 +108,8 @@ drophats - Drops LocalPlayer's hats
 printmousepos - Enables printing Mouse's Hit.p by left clicking
 unprintmousepos - Disables printing Mouse's Hit.p by left clicking
 tptopos [p] [x] [y] [z] - Teleports [p] to the Position [x] [y] [z]
-rightclicktotp - Enables teleporting by right clicking
-unrightclicktotp - Disables teleporting by right clicking
+rightclicktotp or rctp - Enables teleporting by right clicking
+unrightclicktotp or unrctp - Disables teleporting by right clicking
 removetools [p] - Removes [p]'s tools
 printpos [p] - Prints [p]'s Position
 blur - Makes a BlurEffect in the Lighting
@@ -118,3 +118,4 @@ fixl or fixlighting or fix - Removes Lighting children
 box [p] - Gives [p] a SelectionBox
 unbox [p] - Removes [p]'s SelectionBox
 crash [p] - Crashes [p]
+removehats - Removes LocalPlayer's hats
