@@ -118,3 +118,4 @@ fixl or fixlighting or fix - Removes Lighting children
 box [p] - Gives [p] a SelectionBox
 unbox [p] - Removes [p]'s SelectionBox
 removehats - Removes LocalPlayer's hats
+animation [p] [animation id] - Gives [p] an animation with the id [animation id]
