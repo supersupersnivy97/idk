@@ -54,7 +54,6 @@ clone [p] - Clones [p]
 unname [p] - Restores [p]'s name
 duck [p] - Makes [p] a duck
 unduck [p] - Makes [p] stop being a duck
-prefix [new prefix] - Makes the chathook prefix [new prefix]
 freeze [p] or frz [p] - Freezes [p]
 unfreeze [p] or unfrz [p] or thaw [p] - Unfreezes [p]
 ambient [r] [g] [b] - Sets Ambient to [r] [g] [b]
