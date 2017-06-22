@@ -120,4 +120,5 @@ noclip - Self explanatory
 swim - Self explanatory
 superjump - Self explanatory
 airwalk - Self explanatory
+jesusfly - Self explanatory
 disable - Disables HumanoidState hax
