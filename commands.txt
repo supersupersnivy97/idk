@@ -116,9 +116,3 @@ stealtools2 [p1] [p2] - Steals [p1]'s tools and gives them to [p2]
 kkk [p] - Makes [p] a kkk member
 watch [p] - Makes you watch [p]
 unwatch [p] - Makes you stop watching [p]
-noclip - Self explanatory
-swim - Self explanatory
-superjump - Self explanatory
-airwalk - Self explanatory
-jesusfly - Self explanatory
-disable - Disables HumanoidState hax
