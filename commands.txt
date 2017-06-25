@@ -116,3 +116,7 @@ stealtools2 [p1] [p2] - Steals [p1]'s tools and gives them to [p2]
 kkk [p] - Makes [p] a kkk member
 watch [p] - Makes you watch [p]
 unwatch [p] - Makes you stop watching [p]
+waypoint-add [name] - Creates a waypoint with the name [name] for the current game
+waypoint-tp [name] - Teleports to the waypoint [name] for the current game
+waypoint-remove [name] or waypoint-r [name] - Removes the waypoint [name] for the current game
+clonetool [case sensitive full tool name] - Clones the chosen tool for LocalPlayer
