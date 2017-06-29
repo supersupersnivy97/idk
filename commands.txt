@@ -109,7 +109,6 @@ fixl or fixlighting or fix - Removes Lighting children
 box [p] - Gives [p] a SelectionBox
 unbox [p] - Removes [p]'s SelectionBox
 removehats - Removes LocalPlayer's hats
-animation [p] [animation id] - Gives [p] an animation with the id [animation id]
 printtools - Prints LocalPlayer's tools (if you have any)
 savetool [case sensitive full tool name] - Puts the chosen tool in your StarterGear
 stealtools2 [p1] [p2] - Steals [p1]'s tools and gives them to [p2]
