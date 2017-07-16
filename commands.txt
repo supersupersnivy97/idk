@@ -119,3 +119,5 @@ waypoint-add [name] - Creates a waypoint with the name [name] for the current ga
 waypoint-tp [name] - Teleports to the waypoint [name] for the current game
 waypoint-remove [name] or waypoint-r [name] - Removes the waypoint [name] for the current game
 clonetool [case sensitive full tool name] - Clones the chosen tool for LocalPlayer
+hipheight [p] [n] - Makes [p]'s HipHeight [n]
+warn [string] - Warns [string] in the dev console
