@@ -121,5 +121,3 @@ waypoint-remove [name] or waypoint-r [name] - Removes the waypoint [name] for th
 clonetool [case sensitive full tool name] - Clones the chosen tool for LocalPlayer
 hipheight [p] [n] - Makes [p]'s HipHeight [n]
 warn [string] - Warns [string] in the dev console
-keybind [letter] [command] - Self explanatory
-unkeybind [letter] - Self explanatory
