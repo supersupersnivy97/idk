@@ -112,7 +112,6 @@ removehats - Removes LocalPlayer's hats
 printtools - Prints LocalPlayer's tools (if you have any)
 savetool [case sensitive full tool name] - Puts the chosen tool in your StarterGear
 stealtools2 [p1] [p2] - Steals [p1]'s tools and gives them to [p2]
-kkk [p] - Makes [p] a kkk member
 watch [p] - Makes you watch [p]
 unwatch [p] - Makes you stop watching [p]
 waypoint-add [name] - Creates a waypoint with the name [name] for the current game
