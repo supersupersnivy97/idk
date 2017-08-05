@@ -23,13 +23,16 @@ charapp [p] [id] - Sets [p]'s CharacterAppearance to ..[id]
 getglobal [name] - Use only if you know what it is
 getfield [index] [name] - Use only if you know what it is
 setfield [index] [name] - Use only if you know what it is
+setglobal [name] - Use only if you know what it is
 pushvalue [index] - Use only if you know what it is
 pushstring [string] - Use only if you know what it is
 pushnumber [number] - Use only if you know what it is
 pushboolean [boolean] - Use only if you know what it is
-pcall [nargs] [nresults] - Use only if you know what it is
+pcall [nargs] [nresults] [err func = 0] - Use only if you know what it is
 emptystack - Use only if you know what it is
 gettop - Use only if you know what it is
+pop [n] - Use only if you know what it is
+settop [n] - Use only if you know what it is
 invisible [p] - Makes [p] invisible
 visible [p] or unghost [p] - Makes [p] visible
 gravity [n] - Sets the gravity to [n] (default is 196.2)
@@ -98,7 +101,7 @@ firstperson [p] - Sets [p]'s Camera to first person
 thirdperson [p] - Sets [p]'s Camera to third person
 age [p] - Outputs [p]'s AccountAge
 rmusic - Removes every Sound in the Workspace
-fegod - Enables FilteringEnabled god mode (to disable use the respawn command)
+fegod - Enables FilteringEnabled god mode
 drophats - Drops LocalPlayer's hats
 tptopos [p] [x] [y] [z] - Teleports [p] to the Position [x] [y] [z]
 removetools [p] - Removes [p]'s tools
