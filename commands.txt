@@ -123,4 +123,8 @@ waypoint-remove [name] or waypoint-r [name] - Removes the waypoint [name] for th
 clonetool [case sensitive full tool name] - Clones the chosen tool for LocalPlayer
 hipheight [p] [n] - Makes [p]'s HipHeight [n]
 warn [string] - Warns [string] in the dev console
-wait [seconds] - Sleeps for [seconds] seconds
+smoketool - Command by FroggysFriend, credits to him
+snivydoll [p] - Gives [p] a Snivy doll!
+tepigdoll [p] - Gives [p] a Tepig doll!
+chickendoll [p] - Gives [p] a Chicken doll!
+signtool [p] - Gives [p] a noobhax sign tool
