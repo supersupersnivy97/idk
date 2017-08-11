@@ -128,3 +128,7 @@ snivydoll [p] - Gives [p] a Snivy doll!
 tepigdoll [p] - Gives [p] a Tepig doll!
 chickendoll [p] - Gives [p] a Chicken doll!
 signtool [p] - Gives [p] a noobhax sign tool
+oshawottdoll [p] - Gives [p] an Oshawott doll!
+noobdoll [p] - Gives [p] a Noob doll!
+info [string] - Makes an informational message in the dev console with the text [string]
+error [string] - Errors [string] in the dev console
