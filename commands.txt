@@ -132,3 +132,4 @@ oshawottdoll [p] - Gives [p] an Oshawott doll!
 noobdoll [p] - Gives [p] a Noob doll!
 info [string] - Makes an informational message in the dev console with the text [string]
 error [string] - Errors [string] in the dev console
+output [r] [g] [b] [bold boolean] [text] - Self explanatory
