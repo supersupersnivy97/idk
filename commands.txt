@@ -2,8 +2,8 @@ ff [p] - Gives [p] a ForceField
 unff [p] - Removes [p]'s ForceField
 fire [p] - Gives [p] Fire
 unfire [p] - Removes [p]'s Fire
-sparkles [p] - Gives [p] Sparkles
-unsparkles [p] - Removes [p]'s Sparkles
+sparkles [p] or sp [p] - Gives [p] Sparkles
+unsparkles [p] or unsp [p] - Removes [p]'s Sparkles
 smoke [p] - Gives [p] Smoke
 unsmoke [p] - Removes [p]'s Smoke
 particles [p] [id] - Gives [p] particles with the id [id]
@@ -17,8 +17,8 @@ btools [p] - Gives [p] building tools
 makepart - Makes a Part in the Workspace
 fogend [n] - Sets FogEnd to [n]
 kill [p] - Kills [p]
-statchange1 [p] [stat] [new int value] - Sets [p]'s [stat] to [new int value]
-statchange2 [p] [stat] [new string value] - Sets [p]'s [stat] to [new string value]
+statchange1 [p] [stat] [new int value] or changestat1 [p] [stat] [new int value] or changestat [p] [stat] [new int value] - Sets [p]'s [stat] to [new int value]
+statchange2 [p] [stat] [new string value] or changestat2 [p] [stat] [new string value] - Sets [p]'s [stat] to [new string value]
 charapp [p] [id] - Sets [p]'s CharacterAppearance to ..[id]
 getglobal [name] - Use only if you know what it is
 getfield [index] [name] - Use only if you know what it is
