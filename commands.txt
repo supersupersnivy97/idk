@@ -1,5 +1,5 @@
 ff [p] - Gives [p] a ForceField
-unff [p] - Removes [p]'s ForceField
+unff [p] or uninvisff [p] or uninvisibleff [p] - Removes [p]'s ForceField
 fire [p] - Gives [p] Fire
 unfire [p] - Removes [p]'s Fire
 sparkles [p] or sp [p] - Gives [p] Sparkles
@@ -33,8 +33,8 @@ emptystack - Use only if you know what it is
 gettop - Use only if you know what it is
 pop [n] - Use only if you know what it is
 settop [n] - Use only if you know what it is
-invisible [p] - Makes [p] invisible
-visible [p] or unghost [p] - Makes [p] visible
+invisible [p] or invis [p] - Makes [p] invisible
+visible [p] or unghost [p] or vis [p] - Makes [p] visible
 gravity [n] - Sets the gravity to [n] (default is 196.2)
 print [string] - Prints [string] in the dev console
 tp [p1] [p2] - Teleports [p1] to [p2]
@@ -135,3 +135,7 @@ error [string] - Errors [string] in the dev console
 output [r] [g] [b] [bold boolean] [text] - Self explanatory
 respawn [p] - Respawns [p]
 fedog - Makes you weird :O (replicates on FE)
+invisff [p] or invisibleff [p] - Gives [p] an invisible ForceField
+nuke [p] - Nukes [p]
+harambe [p] - Makes [p] harambe
+unharambe [p] - Makes [p] stop being harambe
