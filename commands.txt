@@ -139,3 +139,5 @@ invisff [p] or invisibleff [p] - Gives [p] an invisible ForceField
 nuke [p] - Nukes [p]
 harambe [p] - Makes [p] harambe
 unharambe [p] - Makes [p] stop being harambe
+mysky - Makes a skybox with LocalPlayer's HeadShot
+myparticles - Gives LocalPlayer particles with LocalPlayer's HeadShot
