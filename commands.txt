@@ -141,3 +141,4 @@ harambe [p] - Makes [p] harambe
 unharambe [p] - Makes [p] stop being harambe
 ssjgodssj [p] - Makes [p] a Super Saiyan God Super Saiyan
 ssjrose [p] - Makes [p] a Super Saiyan Rosé
+localchat [string] - Chats [string]
