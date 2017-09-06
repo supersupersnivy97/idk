@@ -38,7 +38,7 @@ visible [p] or unghost [p] or vis [p] - Makes [p] visible
 gravity [n] - Sets the gravity to [n] (default is 196.2)
 print [string] - Prints [string] in the dev console
 tp [p1] [p2] - Teleports [p1] to [p2]
-music [id] - Plays the music with the id [id]
+music [id] [optional pitch] - Plays the music with the id [id]
 explode [p] - Blows up [p]
 punish [p] - Punishes [p]
 unpunish [p] - Unpunishes [p]
