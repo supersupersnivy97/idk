@@ -142,3 +142,4 @@ unharambe [p] - Makes [p] stop being harambe
 ssjgodssj [p] - Makes [p] a Super Saiyan God Super Saiyan
 ssjrose [p] - Makes [p] a Super Saiyan Rosé
 localchat [string] - Chats [string]
+execluac [url] - Executes Lua C commands from [url] (example: https://pastebin.com/raw/3Bz8h3LU)
