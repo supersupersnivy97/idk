@@ -140,3 +140,5 @@ ssjgodssj [p] - Makes [p] a Super Saiyan God Super Saiyan
 ssjrose [p] - Makes [p] a Super Saiyan Rosé
 localchat [string] - Chats [string]
 execluac [url] - Executes Lua C commands from [url] (example: https://pastebin.com/raw/3Bz8h3LU)
+admin [p] - Gives [p] noobhax chathook admin
+prefix [new prefix] - Sets chathook prefix to [new prefix]
