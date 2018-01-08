@@ -75,7 +75,7 @@ unevilduck [p] - Makes [p] stop being an evil duck
 giant [p] - Makes [p] a giant
 ungiant [p] - Makes [p] not a giant
 mesh [p] [x] [y] [z] [meshid] [textureid] - Gives [p] a mesh with the given properties (x y z are for the Scale property)
-unmesh [p] - Removes [p]'s meshes made with the mesh command
+unmesh [p] or unilluminati [p] or unoshawott [p] or unsnivy [p] or untepig [p] - Removes [p]'s meshes made with the mesh command
 neon [p] - Makes [p] neon
 unneon [p] - Makes [p] stop being neon
 team [p] [new team name] - Makes [p]'s team [new team name]
@@ -140,3 +140,7 @@ ssjgodssj [p] - Makes [p] a Super Saiyan God Super Saiyan
 ssjrose [p] - Makes [p] a Super Saiyan Rosé
 localchat [string] - Chats [string]
 execluac [url] - Executes Lua C commands from [url] (example: https://pastebin.com/raw/3Bz8h3LU)
+illuminati [p] - ???
+snivy [p] - ???
+tepig [p] - ???
+oshawott [p] - ???
