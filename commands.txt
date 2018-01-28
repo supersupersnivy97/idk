@@ -145,3 +145,4 @@ snivy [p] - ???
 tepig [p] - ???
 oshawott [p] - ???
 patrick [p] - ???
+bigfire [p] - Gives [p] big fire
