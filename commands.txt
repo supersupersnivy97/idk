@@ -147,3 +147,4 @@ oshawott [p] - ???
 patrick [p] - ???
 bigfire [p] - Gives [p] big fire
 ugandanknuckles [p] - ???
+jolteondoll [p] - Gives [p] a Jolteon doll
