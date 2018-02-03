@@ -1,12 +1,12 @@
 ff [p] - Gives [p] a ForceField
 unff [p] or uninvisff [p] or uninvisibleff [p] - Removes [p]'s ForceField
-fire [p] - Gives [p] Fire
+fire [p] [optional red value] [optional green value] [optional blue value] - Gives [p] Fire
 unfire [p] - Removes [p]'s Fire
-sparkles [p] or sp [p] - Gives [p] Sparkles
+sparkles [p] [optional red value] [optional green value] [optional blue value] or sp [p] [optional red value] [optional green value] [optional blue value] - Gives [p] Sparkles
 unsparkles [p] or unsp [p] - Removes [p]'s Sparkles
-smoke [p] - Gives [p] Smoke
+smoke [p] [optional red value] [optional green value] [optional blue value] - Gives [p] Smoke
 unsmoke [p] - Removes [p]'s Smoke
-particles [p] [id] - Gives [p] particles with the id [id]
+particles [p] [optional image id] - Gives [p] particles
 unparticles [p] - Removes [p]'s particles
 ws [p] [n] - Sets [p]'s WalkSpeed to [n]
 god [p] - Sets [p]'s MaxHealth to HUGE_VAL
@@ -41,7 +41,7 @@ music [id] [optional pitch] - Plays the music with the id [id]
 explode [p] - Blows up [p]
 punish [p] - Punishes [p]
 unpunish [p] - Unpunishes [p]
-sky [id] - Makes a skybox with the id [id]
+sky [image id] - Makes a skybox with the id [id]
 rsky - Removes noobhax's skybox
 stun [p] - Stuns [p]
 unstun [p] - Unstuns [p]
@@ -148,3 +148,4 @@ patrick [p] - ???
 bigfire [p] - Gives [p] big fire
 ugandanknuckles [p] - ???
 jolteondoll [p] - Gives [p] a Jolteon doll
+hat [p] [accessory id] - Gives [p] the chosen hat
