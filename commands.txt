@@ -149,3 +149,4 @@ bigfire [p] - Gives [p] big fire
 ugandanknuckles [p] - ???
 jolteondoll [p] - Gives [p] a Jolteon doll
 hat [p] [accessory id] - Gives [p] the chosen hat
+insert [model/basepart id] - Inserts the chosen Model or BasePart
