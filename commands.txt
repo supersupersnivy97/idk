@@ -150,3 +150,4 @@ ugandanknuckles [p] - ???
 jolteondoll [p] - Gives [p] a Jolteon doll
 hat [p] [accessory id] - Gives [p] the chosen hat
 insert [model/basepart id] - ***USE IT ONLY ON LUA C EXECUTION BOX FOR BETTER RESULTS*** Inserts the chosen Model or BasePart
+rhum [p] - Removes [p]'s Humanoid
