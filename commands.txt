@@ -62,7 +62,7 @@ ambient [r] [g] [b] - Sets Ambient to [r] [g] [b]
 fogcolor [r] [g] [b] - Sets FogColor to [r] [g] [b]
 fogstart [n] - Sets FogStart to [n]
 bighead [p] - Makes [p]'s Head big
-normalhead [p] - Makes [p]'s Head normal
+normalhead [p] or unbighead [p] - Makes [p]'s Head normal
 fling [p] - Flings [p]
 shiny [p] - Makes [p] shiny
 unshiny [p] - Makes [p] not shiny
@@ -129,7 +129,7 @@ oshawottdoll [p] - Gives [p] an Oshawott doll!
 noobdoll [p] - Gives [p] a Noob doll!
 info [string] - Makes an informational message in the dev console with the text [string]
 error [string] - Errors [string] in the dev console
-output [text] - Self explanatory
+output [r] [g] [b] [bold boolean] [text] - Self explanatory
 respawn [p] - Respawns [p]
 fedog - Makes you weird :O (replicates on FE)
 invisff [p] or invisibleff [p] - Gives [p] an invisible ForceField
@@ -137,7 +137,7 @@ nuke [p] - Nukes [p]
 harambe [p] - Makes [p] harambe
 unharambe [p] - Makes [p] stop being harambe
 ssjgodssj [p] - Makes [p] a Super Saiyan God Super Saiyan
-ssjrose [p] - Makes [p] a Super Saiyan Rose
+ssjrose [p] - Makes [p] a Super Saiyan Rosé
 localchat [string] - Chats [string]
 execluac [url] - Executes Lua C commands from [url] (example: https://pastebin.com/raw/3Bz8h3LU)
 illuminati [p] - ???
@@ -151,3 +151,4 @@ jolteondoll [p] - Gives [p] a Jolteon doll
 hat [p] [accessory id] - Gives [p] the chosen hat
 insert [model/basepart id] - ***USE IT ONLY ON LUA C EXECUTION BOX FOR BETTER RESULTS*** Inserts the chosen Model or BasePart
 rhum [p] - Removes [p]'s Humanoid
+friendspam [ON/OFF] - Enables or disables friend requests spam when you inject
