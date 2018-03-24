@@ -26,4 +26,5 @@ If you need one, here it is https://drive.google.com/file/d/1d4wgf6amXsJBDs2uqRZ
 Enjoy
 
 If noobhax doesn't show up even after you copied lua5.1.dll correctly 
-and your antivirus isn't blocking you, download Visual Studio 2015 redistributable x86 from http://www.microsoft.com/download/details.aspx?id=48145
+and your antivirus isn't blocking you, download Visual Studio 2015 redistributable x86 
+from http://www.microsoft.com/download/details.aspx?id=48145
