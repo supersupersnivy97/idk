@@ -152,3 +152,5 @@ hat [p] [accessory id] - Gives [p] the chosen hat
 insert [model/basepart id] - ***USE IT ONLY ON LUA C EXECUTION BOX FOR BETTER RESULTS*** Inserts the chosen Model or BasePart
 rhum [p] - Removes [p]'s Humanoid
 friendspam [ON/OFF] - Enables or disables friend requests spam when you inject
+trump [p] - Gives [p] a Trump face (by FroggysFriend)
+untrump [p] - Removes [p]'s Trump face
