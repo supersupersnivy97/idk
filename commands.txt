@@ -164,3 +164,4 @@ uncharapp [p] - Makes [p] have his/her CharacterAppearance back
 charapp2 [p1] [p2] - Makes [p1]'s CharacterAppearance [p2]'s
 os [p] - Prints [p]'s Operating System
 fps - Prints your physics FPS
+esp - Enables esp
