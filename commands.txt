@@ -166,3 +166,6 @@ os [p] - Prints [p]'s Operating System
 fps - Prints your physics FPS
 esp - Enables esp
 unesp - Disables esp
+admin [p] - (CHATHOOK ONLY) Gives [p] chathook admin
+prefix [new chathook prefix] - Sets the chathook prefix to [new chathook prefix]
+refreshadmins - Removes people who left, from the admins array
