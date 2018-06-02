@@ -170,3 +170,4 @@ admin [p] - (CHATHOOK ONLY) Gives [p] chathook admin
 prefix [new chathook prefix] - Sets the chathook prefix to [new chathook prefix]
 refreshadmins - Removes people who left, from the admins array
 afk - Enables/disables AFK (if enabled, every 5 mins the ESC button will be pressed)
+noobmouse or noobcursor - Enables/disables noob cursor
