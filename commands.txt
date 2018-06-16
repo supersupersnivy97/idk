@@ -77,7 +77,7 @@ unevilduck [p] - Makes [p] stop being an evil duck
 giant [p] - Makes [p] a giant
 ungiant [p] - Makes [p] not a giant
 mesh [p] [x] [y] [z] [meshid] [textureid] - Gives [p] a mesh with the given properties (x y z are for the Scale property)
-unmesh [p] or unilluminati [p] or unoshawott [p] or unsnivy [p] or untepig [p] or unpatrick [p] or unugandanknuckles [p] or unspyro [p] or unthomas [p] - Removes [p]'s meshes made with the mesh command
+unmesh [p] or unilluminati [p] or unoshawott [p] or unsnivy [p] or untepig [p] or unpatrick [p] or unugandanknuckles [p] or unspyro [p] or unthomas [p] or unicecream [p] or uncat [p] or undog [p] - Removes [p]'s meshes made with the mesh command
 neon [p] - Makes [p] neon
 unneon [p] - Makes [p] stop being neon
 team [p] [new team name] - Makes [p]'s team [new team name]
@@ -171,3 +171,6 @@ prefix [new chathook prefix] - Sets the chathook prefix to [new chathook prefix]
 refreshadmins - Removes people who left, from the admins array
 afk - Enables/disables AFK (if enabled, every 5 mins the ESC button will be pressed)
 noobmouse or noobcursor - Enables/disables noob cursor
+icecream [p] - Gives [p] an ice cream mesh
+cat [p] - Gives [p] a cat mesh
+dog [p] - Gives [p] a dog mesh
