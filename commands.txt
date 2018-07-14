@@ -178,3 +178,5 @@ unanchorws or unanchorall - ***USE IT ONLY WITH CHATHOOK TO REDUCE CRASHES*** Un
 unlockws or unlockall - ***USE IT ONLY WITH CHATHOOK TO REDUCE CRASHES*** Unlocks the Workspace
 lockws or lockall - ***USE IT ONLY WITH CHATHOOK TO REDUCE CRASHES*** Locks the Workspace
 colorspam - ***USE IT ONLY WITH CHATHOOK TO REDUCE CRASHES*** Makes the Workspace colorful :-)
+logs - Enables/disables the automatic logs deletion when noobhax loads
+deletelogs - Deletes the logs right now
