@@ -180,3 +180,4 @@ lockws or lockall - ***USE IT ONLY WITH CHATHOOK TO REDUCE CRASHES*** Locks the 
 colorspam - ***USE IT ONLY WITH CHATHOOK TO REDUCE CRASHES*** Makes the Workspace colorful :-)
 logs - Enables/disables the automatic logs deletion when noobhax loads
 deletelogs - Deletes the logs right now
+ctrlclick - Enables/disables CTRL + Click to tp when noobhax loads
